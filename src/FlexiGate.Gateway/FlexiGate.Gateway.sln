@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexiGate.Gateway", "FlexiGate.Gateway\FlexiGate.Gateway.csproj", "{49397AEA-6BD6-43F4-B1D6-8CC7882A9F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49397AEA-6BD6-43F4-B1D6-8CC7882A9F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49397AEA-6BD6-43F4-B1D6-8CC7882A9F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49397AEA-6BD6-43F4-B1D6-8CC7882A9F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49397AEA-6BD6-43F4-B1D6-8CC7882A9F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
